@@ -6,6 +6,7 @@ MySQL or a compatible SQL database server
 Python 3.x
 Jupyter Notebook or Jupyter Lab
 Necessary Python libraries (e.g., pandas, sqlalchemy) installed
+Data folder contains the csv file
 
 Step-by-Step Guide
 Step 1: Database Design
