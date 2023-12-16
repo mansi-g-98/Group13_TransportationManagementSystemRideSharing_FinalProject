@@ -13,11 +13,13 @@ Step 1: Database Design
 Open the CreateTables_RideSharing.sql file in a SQL database client or a text editor.
 Execute the SQL commands in this file on your database server.
 These commands will create the necessary tables and relationships for the ride-sharing application's database.
+
 Step 2: Data Processing and Initial Insertion
 Open the Processing_Vehicle_data&Insertion.ipynb file in Jupyter Notebook or Jupyter Lab.
 Ensure that the database connection details within the notebook match your database server's configuration.
 Run each cell in the notebook sequentially.
 This notebook processes vehicle data and inserts it into the database.
+
 Step 3: Additional Data Insertion and Query Methods
 Open the Data_Insertion&Methods_Query.sql file in your SQL client or a text editor.
 Execute the SQL commands.
